@@ -1,0 +1,51 @@
+﻿{
+  "information": [
+    {
+      "info": "Jag heter Dominika Berg och jag är student på Mittuniversitetet i Sundsvall."
+    },
+    {
+      "info": "Program som jag studerar heter Webbutvecklingsprogrammet, 120 HP och den ges på distans."
+    },
+    {
+      "info": "Till vardags sitter jag hemma i Stockholm."
+    }
+  ],
+  "kurser": [
+    {
+      "kurskod": "DT057G",
+      "namn": "Webbutveckling I",
+      "progression": "A",
+      "kursplan": "http://www.miun.se/utbildning/kurser/sok-kursplan/kursplan?kursplanid=15472"
+    },
+    {
+      "kurskod": "DT093G",
+      "namn": "Webbutveckling II",
+      "progression": "B",
+      "kursplan": "http://www.miun.se/utbildning/kurser/sok-kursplan/kursplan?kursplanid=15474"
+    },
+    {
+      "kurskod": "DT173G",
+      "namn": "Webbutveckling III",
+      "progression": "B",
+      "kursplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=32441"
+    },
+    {
+      "kurskod": "DT003G",
+      "namn": "Databaser",
+      "progression": "A",
+      "kursplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=32257"
+    },
+    {
+      "kurskod": "DT084G",
+      "namn": "Introduktion till programmering i JavaScript",
+      "progression": "A",
+      "kursplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=31961"
+    },
+    {
+      "kurskod": "DT200G",
+      "namn": "Grafisk teknik för webb",
+      "progression": "A",
+      "kursplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=32133"
+    }
+  ]
+}
